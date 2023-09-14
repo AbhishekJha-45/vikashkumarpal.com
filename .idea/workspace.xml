@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a239ffb-0269-4735-a780-650347c12327" name="Changes" comment="nextjs 12 application initial commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/101.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/102.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/103.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/104.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/105.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/106.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/107.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/108.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/109.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/112.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/113.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/115.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/116.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/117.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/118.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/119.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/121.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/122.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/123.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/124.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/125.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/126.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/127.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/129.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/130.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/131.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/132.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/133.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/134.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/135.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/136.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/137.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/138.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/139.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/140.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/141.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/142.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/143.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/145.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/146.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/147.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/148.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/149.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/151.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/153.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/154.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/155.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/156.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/157.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/158.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/159.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/160.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/161.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/162.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/163.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/164.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/165.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/166.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/167.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/168.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/169.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/170.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/171.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/172.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/173.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/174.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/175.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/176.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/177.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/178.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/179.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/181.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/182.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/183.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/184.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/185.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/186.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/187.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/188.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/189.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/190.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/191.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/193.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/194.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/195.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/196.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/197.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/198.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/199.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/201.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/202.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/203.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/204.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/205.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/206.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/207.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/208.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/209.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/210.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/211.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/212.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/213.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/214.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/215.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/216.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/217.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/218.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/219.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/220.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/221.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/222.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/223.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/68.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/69.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/71.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/73.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/74.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/75.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/77.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/78.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/79.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/81.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/82.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/83.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/84.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/85.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/86.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/88.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/89.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/90.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/91.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/92.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/93.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/94.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/95.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/97.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/98.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/99.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/Card-1-Section-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/Card-2-Section-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/Card-3-Section-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/RMC Aviation Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/Vector-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/Vector-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/Vector-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/Vector-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/Vector-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/abstract.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/akosmd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/beetronics.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/blog01-1-570x420.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/blog12-570x420.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/blog2-570x420.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/client-avatar-man-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/client-avatar-man-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/client-avatar-man-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/client-avatar-man-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/client-avatar-man-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/client-avatar-man-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/client-avatar-man-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/client-avatar-man-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/client-avatar-women-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/client-avatar-women-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/client-avatar-women-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/client-avatar-women-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/client_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/client_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/client_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/client_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/client_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/client_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/client_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/client_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/client_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/client_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/client_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/client_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/client_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/contact-man.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/doctify-india.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/ecommerce-seo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/email-icon-thank-you.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/girl-with-coffee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/hamburger.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/keyword-research.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/laugh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/local-seo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/logo-latest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/port_01-538x472.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/port_02-538x472.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/port_03-538x472.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/port_04-538x472.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/port_05-538x472.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/port_06-538x472.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/portfolio-sec-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/poster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/rmc.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/rmcelite.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/seo-audit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/seo-consulting.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/seo-services.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/services-sec-1-img.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/slack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/soprime.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/squarespace-seo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/technical-seo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/wix-seo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Images/wordpress-seo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/About_Section_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/About_Section_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Blog_Hero_Section.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Blog_Section_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/ButtonGreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/ButtonYellow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/CardSmallHome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Card_Section_10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Card_Services_Portfolio_Case.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/CardsInfiniteScroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Case_Study_Card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Categories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Clir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Clirbr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Collaborate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Contact_Form_Format.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Crilbl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/FaqComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Home_Card_Big.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Home_Section_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Home_Section_10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Home_Section_11.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Home_Section_12.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Home_Section_13.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Home_Section_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Home_Section_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Home_Section_5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Home_Section_6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Home_Section_7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Home_Section_8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Home_section_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Home_section_9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/IntroComponentPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/LatestPosts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Logo_Carousal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Navbar2.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Pagination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Rating.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/RecentPosts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Section_7_Card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Section_9_card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Seo_Consulting_Section_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Seo_Consulting_Section_8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Seo_Services_Section_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Seo_Services_Section_5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Seo_Services_Section_6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Services_Portfolio_Case.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Services_Section_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Services_section_5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Small_Card_About_Sec_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/Small_Yellow_Card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/SocialMedia.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/TextOnlyCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/accordion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/dev/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/dev/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/dev/palette.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/dev/previews.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/dev/useInitial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/404.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/500.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/_error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/blog/[slug]/customHead.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/blog/[slug]/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/blog/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/blog/latestposts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/case-study.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/loading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/portfolio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/privacy-policy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/services/local-seo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/terms-and-conditions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/thankyou.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/Carousel.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/blogpost.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/globals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/homepage.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/navbar.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/newsletter.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/style.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tailwind.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/GraphQlReq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/date.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/graphQlquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="abhishek jha" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2UpPulFL5SOryy9S2k9OSpwbeQS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/abhishek_jha/Desktop/Desktop/next-js-12",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/home/abhishek_jha/Downloads/WebStorm-2023.2/WebStorm-232.8660.143/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.rcb.reactComponents" value="false" />
+        <entry key="com.haulmont.rcb.reactInspector" value="false" />
+        <entry key="com.haulmont.rcb.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/styles" />
+      <recent name="$PROJECT_DIR$/assets/styles" />
+      <recent name="$PROJECT_DIR$/pages/services" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a239ffb-0269-4735-a780-650347c12327" name="Changes" comment="" />
+      <created>1693633774183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693633774183</updated>
+      <workItem from="1693633775223" duration="8701000" />
+      <workItem from="1694056230137" duration="303000" />
+      <workItem from="1694056759634" duration="4349000" />
+      <workItem from="1694332186329" duration="6056000" />
+      <workItem from="1694700587095" duration="603000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nextjs 12 application initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="nextjs 12 application initial commit" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+</project>
