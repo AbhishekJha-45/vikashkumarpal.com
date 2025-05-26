@@ -1,0 +1,42 @@
+# Stage 1: Build the application
+FROM node:18-alpine AS builder
+
+# Set working directory
+WORKDIR /app
+
+# Copy package files
+COPY package.json package-lock.json* ./
+
+# Install dependencies
+RUN npm install --frozen-lockfile
+
+# Copy all files
+COPY . .
+
+# Build the application
+RUN npm run build
+
+# Stage 2: Production image
+FROM node:18-alpine AS runner
+
+# Set working directory
+WORKDIR /app
+
+# Install dependencies for production
+COPY --from=builder /app/package.json /app/package-lock.json ./
+COPY --from=builder /app/.next ./.next
+COPY --from=builder /app/public ./public
+COPY --from=builder /app/node_modules ./node_modules
+
+# Install sharp for image optimization (already in dependencies)
+RUN npm install sharp
+
+# Environment variables
+ENV NODE_ENV production
+ENV PORT 3000
+
+# Expose the port
+EXPOSE 3000
+
+# Start the application
+CMD ["npm", "start"]
