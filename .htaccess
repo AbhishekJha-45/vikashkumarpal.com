@@ -1,0 +1,9 @@
+RewriteEngine On
+RewriteCond %{REQUEST_URI} !^/wp-content/.*$ [NC]
+RewriteRule ^(.*)$ http://127.0.0.1:3000/$1 [P,L]
+
+
+
+# Redirect from IP:port to domain (keeping the path)
+RewriteCond %{HTTP_HOST} ^217\.15\.170\.74(:3000)?$ [NC]
+RewriteRule ^(.*)$ https://vikashkumarpal.com/$1 [R=301,L]
